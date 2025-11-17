@@ -1,0 +1,5 @@
+a = float(input("Introduce el primer número: "))
+b = float(input("Introduce el segundo número: "))
+c = float(input("Introduce el tercer número: "))
+print("Mayor:", max(a, b, c))
+print("Menor:", min(a, b, c))
